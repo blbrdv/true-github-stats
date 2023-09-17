@@ -47,7 +47,7 @@
         
         .lang-name {
             font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-            font-weight: 700
+            font-weight: 500;
             fill: #434d58;
         }
 
