@@ -47,7 +47,6 @@
         
         .lang-name {
             font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-            font-weight: 500;
             fill: #434d58;
         }
 
@@ -104,19 +103,19 @@
                     <g transform="translate(0, 0)">
                         <g class="stagger" style="animation-delay: 450ms">
                             <circle cx="5" cy="6" r="5" fill="#b845fc"></circle>
-                            <text data-testid="lang-name" x="15" y="10" class="lang-name">Don't care</text>
+                            <text data-testid="lang-name" x="15" y="10" class="lang-name">Don't care 85.66%</text>
                         </g>
                     </g>
                     <g transform="translate(0, 25)">
                         <g class="stagger" style="animation-delay: 600ms">
                             <circle cx="5" cy="6" r="5" fill="#178600"></circle>
-                            <text data-testid="lang-name" x="15" y="10" class="lang-name">Didn't ask</text>
+                            <text data-testid="lang-name" x="15" y="10" class="lang-name">Didn't ask 10.71%</text>
                         </g>
                     </g>
                     <g transform="translate(0, 50)">
                         <g class="stagger" style="animation-delay: 750ms">
                             <circle cx="5" cy="6" r="5" fill="#012456"></circle>
-                            <text data-testid="lang-name" x="15" y="10" class="lang-name">+ lame stats</text>
+                            <text data-testid="lang-name" x="15" y="10" class="lang-name">+ lame stats 3.63%</text>
                         </g>
                     </g>
                 </g>
